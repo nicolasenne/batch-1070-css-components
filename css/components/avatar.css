@@ -1,0 +1,11 @@
+.avatar {
+  width: 75px;
+}
+
+.avatar-lg {
+  width: 120px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}

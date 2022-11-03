@@ -1,0 +1,8 @@
+.banner {
+  color: #fff;
+  padding: 150px 0;
+}
+
+.banner h1, .banner p {
+  margin: 0;
+}

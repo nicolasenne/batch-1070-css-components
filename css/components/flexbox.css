@@ -1,0 +1,29 @@
+.flexbox {
+  background-color: yellow;
+  height: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+}
+
+.square-1 {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  flex-grow: 2;
+}
+
+.square-2 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 9, 128);
+}
+
+.square-3 {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  flex-grow: 3;
+}
